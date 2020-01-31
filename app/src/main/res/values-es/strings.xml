@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">Multilanguage</string>
+    <string name="app_name">Multilenguaje</string>
     <string name="welcome">Bienvenidos</string>
+    <string name="fullName">Introduce tu nombre y apellido o apellidos</string>
+    <string name="age">Introduce tu edad</string>
 </resources>

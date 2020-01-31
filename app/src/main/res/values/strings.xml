@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Multilanguage</string>
     <string name="welcome" >Welcome!</string>
-    <string name="fullName" >Insert your name and surname/s</string>
+    <string name="fullName" >Insert your name and surname or surnames</string>
+    <string name="age">Insert your age</string>
+    <string name="country">Insert your country of origin</string>
+    <string name="lang">Insert your mother tongue</string>
+    <string name="gender">Insert your gender</string>
+
 </resources>

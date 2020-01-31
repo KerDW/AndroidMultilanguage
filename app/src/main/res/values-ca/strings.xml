@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">Multilanguage</string>
-    <string name="welcome" >Welcome!</string>
-    <string name="fullName" >Insert your name and surname/s</string>
+    <string name="app_name">Plurilingüe</string>
 </resources>
