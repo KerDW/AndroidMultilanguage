@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Multillenguatge</string>
+    <string name="app_name">רב-שפה</string>
+    <string name="age">הכנס את גילך</string>
+    <string name="welcome">ברוך הבא!</string>
+    <string name="fullName">הכנס את שמך ושם משפחתך או שמות משפחה</string>
+    <string name="lang">הכנס את שפת האם שלך</string>
+    <string name="gender">הכנס את המגדר שלך</string>
+    <string name="country">הכנס את ארץ המוצא שלך</string>
 </resources>

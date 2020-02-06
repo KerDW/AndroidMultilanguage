@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Plurilingüe</string>
+    <string name="country">Introdueix el teu païs d\'origen</string>
+    <string name="fullName">Introdueix el teu nom i cognom o cognoms</string>
+    <string name="age">Introdueix la teva edat</string>
+    <string name="gender">Introdueix el teu sexe</string>
+    <string name="lang">Introdueix la teva llengua materna</string>
+    <string name="welcome">Benvingut</string>
 </resources>

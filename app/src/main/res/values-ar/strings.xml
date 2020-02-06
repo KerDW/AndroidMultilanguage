@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">متعدد اللغات</string>
+    <string name="country">أدخل بلدك الأصلي</string>
+    <string name="age">أدخل عمرك</string>
+    <string name="gender">أدخل جنسك</string>
+    <string name="lang">أدخل لغتك الأم</string>
+    <string name="fullName">أدخل اسمك ولقبك أو ألقابك</string>
+    <string name="welcome">أهلا وسهلا بك!</string>
 </resources>
