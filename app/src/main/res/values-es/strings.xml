@@ -4,6 +4,7 @@
     <string name="fullName">Introduce tu nombre y apellido o apellidos</string>
     <string name="age">Introduce tu edad</string>
     <string name="lang">Introduce tu lengua materna</string>
-    <string name="gender">Introduce tu sexo</string>
     <string name="country">Introduce tu país de origen</string>
+    <string name="female">Mujer</string>
+    <string name="male">Hombre</string>
 </resources>

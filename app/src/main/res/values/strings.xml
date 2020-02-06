@@ -5,6 +5,7 @@
     <string name="age">Insert your age</string>
     <string name="country">Insert your country of origin</string>
     <string name="lang">Insert your mother tongue</string>
-    <string name="gender">Insert your gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
 
 </resources>

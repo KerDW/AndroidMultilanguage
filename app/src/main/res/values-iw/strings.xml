@@ -4,6 +4,7 @@
     <string name="welcome">ברוך הבא!</string>
     <string name="fullName">הכנס את שמך ושם משפחתך או שמות משפחה</string>
     <string name="lang">הכנס את שפת האם שלך</string>
-    <string name="gender">הכנס את המגדר שלך</string>
     <string name="country">הכנס את ארץ המוצא שלך</string>
+    <string name="female">נקבה</string>
+    <string name="male">זכר</string>
 </resources>

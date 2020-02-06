@@ -3,7 +3,8 @@
     <string name="welcome">欢迎光临！</string>
     <string name="fullName">插入您的名字和姓氏</string>
     <string name="lang">插入你的母语</string>
-    <string name="gender">输入您的性别</string>
     <string name="country">插入您的原籍国</string>
     <string name="age">输入您的年龄</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
 </resources>
